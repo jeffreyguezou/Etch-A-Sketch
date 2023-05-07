@@ -26,8 +26,8 @@ body{
     gap:50px;
 }
 .sketchButton{
-    color:antiquewhite ;
-    background-color: black;
+    color:navy ;
+    background-color: whitesmoke;
     width:100%;
     border-radius: 5px;
     height: 46px;
@@ -42,4 +42,23 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+.colorPicker{
+    width:100%;
+    border-radius: 5px;
+    height: 46px;
+    cursor: pointer;
+}
+.slider{
+    width:100%;
+    border-radius: 5px;
+    height: 46px;
+    cursor: pointer;
+
+}
+.gridSize{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
 }
