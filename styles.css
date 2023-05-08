@@ -63,3 +63,10 @@ body{
     align-items: center;
     border: 2px solid black;
 }
+.onClick{
+    background-color: black;
+}
+.cell{
+    padding: 0;
+    margin: 0;
+}
