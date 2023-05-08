@@ -11,7 +11,23 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    
    
+}
+.sketchTitle > h4{
+    margin-top: 0px;
+}
+.title{
+    text-decoration: underline;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.catchPhrase{
+    padding-left: 20px;
+    display: flex;
+    justify-content: flex-start;
 }
 .sketchPad{
     background-color: white;
